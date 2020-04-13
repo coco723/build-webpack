@@ -19,9 +19,8 @@
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "glob-all": "^3.1.0",
-    "istanbul": "git://github.com/gotwarlost/istanbul.git#harmony",
+    "istanbul": "^1.0.0-alpha.2",
     "mocha": "^6.1.4",
-    "nyc": "^15.0.1",
     "rimraf": "^2.6.3"
   },
   "dependencies": {
